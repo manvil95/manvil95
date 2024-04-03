@@ -89,31 +89,26 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
-<br>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/git-F05032.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-181717.svg?logo=gitlab&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?logo=jenkins&logoColor=white)
-<br>
 ![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?logo=postman&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?logo=virtualbox&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
-<br>
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
