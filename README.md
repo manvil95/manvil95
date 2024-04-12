@@ -85,6 +85,7 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-fff?logo=astro&logoColor=bd303a&color=352563)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white)
