@@ -6,14 +6,14 @@
 
 📫 How to reach me **pateandodesarrollos@gmail.com**
 
-#### What I'm Focused On
+#### _What I'm Focused On_
 
-- 🚀 **Improving Salesforce development practices**
-- 📚 **Learning new technologies and frameworks**
-- 🌐 **Contributing to the Salesforce community**
+- 🚀 **Improving** Salesforce development practices
+- 📚 **Learning** new technologies and frameworks
+- 🌐 **Contributing** to the Salesforce community
 
 ## ☁ Salesforce Credentials
-### 🥇 [3x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)
+### 🥇 _[3x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
@@ -21,7 +21,7 @@
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000" height="100" alt="Associate"/>
 </div>
 
-### 🏅 [Superbadges](https://www.salesforce.com/trailblazer/manuelvillencano)
+### 🏅 _[Superbadges](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-object-relationships-sbu/21ab49e84127030e1436cf8c0ef8629c_badge.png" height="100" alt="Object Relationships Superbadge Unit"/>
