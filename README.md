@@ -12,7 +12,7 @@ SELECT Id,
   (SELECT 🚀 Improving FROM SalesforceDevelopmentPractices),
   (SELECT 📚 Learning FROM NewTechnologiesAndFrameworks),
   (SELECT 🌐 Contributing FROM SalesforceCommunity),
-  Credentials, Superbadges, TechSkills,
+  Credentials, Superbadges, TechSkills
 FROM Developer__c
 WHERE Name LIKE 'Man%'
   AND Passion__c >= 29
