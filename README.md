@@ -8,10 +8,11 @@
 
 #### _What I'm Focused On_
 ```sql
-SELECT Id, Credentials, Superbadges, TechSkills
+SELECT Id,
   (SELECT 🚀 Improving FROM SalesforceDevelopmentPractices),
   (SELECT 📚 Learning FROM NewTechnologiesAndFrameworks),
-  (SELECT 🌐 Contributing FROM SalesforceCommunity)
+  (SELECT 🌐 Contributing FROM SalesforceCommunity),
+  Credentials, Superbadges, TechSkills,
 FROM Developer__c
 WHERE Name LIKE 'Man%'
   AND Passion__c >= 29
