@@ -8,7 +8,7 @@
 
 #### _What I'm Focused On_
 ```sql
-SELECT Id,
+SELECT Id,Credentials, Superbadges,
   (SELECT 🚀 Improving FROM SalesforceDevelopmentPractices),
   (SELECT 📚 Learning FROM NewTechnologiesAndFrameworks),
   (SELECT 🌐 Contributing FROM SalesforceCommunity)
