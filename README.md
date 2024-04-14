@@ -7,10 +7,16 @@
 📫 How to reach me **pateandodesarrollos@gmail.com**
 
 #### _What I'm Focused On_
-
-- 🚀 **Improving** Salesforce development practices
-- 📚 **Learning** new technologies and frameworks
-- 🌐 **Contributing** to the Salesforce community
+```sql
+SELECT Id,
+  (SELECT 🚀 Improving FROM SalesforceDevelopmentPractices),
+  (SELECT 📚 Learning FROM NewTechnologiesAndFrameworks),
+  (SELECT 🌐 Contributing FROM SalesforceCommunity)
+FROM Developer__c
+WHERE Name LIKE 'Man%'
+  AND Passion__c >= 29
+WITH USER_MODE
+```
 
 ## ☁ Salesforce Credentials
 ### 🥇 _[3x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
