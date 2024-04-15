@@ -9,9 +9,9 @@
 #### _What I'm Focused On_
 ```sql
 SELECT Id,
-  (SELECT 🚀 Improving FROM SalesforceDevelopmentPractices),
-  (SELECT 📚 Learning FROM NewTechnologiesAndFrameworks),
-  (SELECT 🌐 Contributing FROM SalesforceCommunity),
+  (SELECT 🚀 Improving FROM Salesforce_Development_Practices__c),
+  (SELECT 📚 Learning FROM New_Technologies_And_Frameworks__c),
+  (SELECT 🌐 Contributing FROM Salesforce_Community__c),
   Credentials, Superbadges, TechSkills
 FROM Developer__c
 WHERE Name LIKE 'Man%'
