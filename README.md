@@ -6,17 +6,17 @@
 
 📫 How to reach me **pateandodesarrollos@gmail.com**
 
-#### _What I'm Focused On_
+#### _Data export on me_
 ```sql
 SELECT Id,
   (SELECT 🚀 Improving FROM Salesforce_Development_Practices__c),
   (SELECT 📚 Learning FROM New_Technologies_And_Frameworks__c),
   (SELECT 🌐 Contributing FROM Salesforce_Community__c),
-  Credentials, Superbadges, TechSkills
+  🥇 Credentials, 🏅 Superbadges, ⚙ TechSkills
 FROM Developer__c
 WHERE Name LIKE 'Man%'
-  AND Passion__c >= 29
-WITH USER_MODE
+  AND Passion_Age__c >= 29
+WITH USER_MODE;
 ```
 
 ## ☁ Salesforce Credentials
