@@ -128,10 +128,20 @@ WITH USER_MODE;
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manvil95&hide_border=true&layout=compact&theme=dracula&locale=en&show_icons=true)
 </div>
 
+>[!NOTE]
+>Top languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on their usage across repositories. There are others that I haven't uploaded to GitHub.
+
 ---
+
 <div align="right">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuvillen)
 ![Profile views](https://komarev.com/ghpvc/?username=manvil95&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
+
+<!-- 
+Next update:
+- https://github.com/anmol098/waka-readme-stats
+
+-->
