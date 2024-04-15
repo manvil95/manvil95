@@ -23,9 +23,9 @@ WITH USER_MODE
 ### 🥇 _[3x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="IA Associate"/>  
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000" height="100" alt="Associate"/>
+  <img src="./assets/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" height="100" alt="Platform Developer 1"/>&nbsp;&nbsp;
+  <img src="./assets/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" height="100" alt="IA Associate"/>&nbsp;&nbsp;
+  <img src="./assets/2022-08_Badge_SF-Certified_Associate_High-Res.png" height="100" alt="Associate"/>
 </div>
 
 ### 🏅 _[Superbadges](https://www.salesforce.com/trailblazer/manuelvillencano)_
