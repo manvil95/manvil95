@@ -1,6 +1,5 @@
 ![Banner](./assets/banner-mod.png)
 <!--# Hi! I'm Manu 👋-->
-<img src=https://octodex.github.com/images/spidertocat.png alt=spidertocat width=300 align=right>
 
 ### A passionate ☁ Salesforce _admineloper_ from Spain
 
@@ -141,6 +140,7 @@ WITH USER_MODE;
 ![Profile views](https://komarev.com/ghpvc/?username=manvil95&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
+
 
 <!-- 
 Next update:
