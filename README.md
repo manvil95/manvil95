@@ -1,5 +1,6 @@
 ![Banner](./assets/banner-mod.png)
 <!--# Hi! I'm Manu 👋-->
+<img src=https://octodex.github.com/images/spidertocat.png alt=spidertocat width=300 align=right>
 
 ### A passionate ☁ Salesforce _admineloper_ from Spain
 
