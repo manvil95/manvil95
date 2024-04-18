@@ -1,7 +1,11 @@
 ![Banner](./assets/banner-mod.png)
 <!--# Hi! I'm Manu 👋-->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=34&duration=1750&pause=400&color=1798C1&center=true&vCenter=true&repeat=false&random=false&width=680&height=40&lines=Developer;Administrator;A+passionate++Salesforce+admineloper)](https://git.io/typing-svg)
 
-### A passionate ☁ Salesforce _admineloper_ from Spain
+</div>
+<!-- ### A passionate ☁ Salesforce _admineloper_ from Spain -->
 
 💻 I'm currently fueling my passion for Salesforce, diving deep into the world of Apex, LWC, and continuously expanding my knowledge in the Salesforce ecosystem. 
 
