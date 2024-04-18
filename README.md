@@ -2,7 +2,7 @@
 <!--# Hi! I'm Manu 👋-->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=34&duration=1750&pause=400&color=1798C1&center=true&vCenter=true&repeat=false&random=false&width=680&height=40&lines=Developer;Administrator;A+passionate++Salesforce+admineloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=34&duration=1750&pause=400&color=1798C1&center=true&vCenter=true&repeat=false&random=false&width=680&height=40&lines=Developer;Administrator;Salesforce+Admineloper)](https://git.io/typing-svg)
 
 </div>
 <!-- ### A passionate ☁ Salesforce _admineloper_ from Spain -->
