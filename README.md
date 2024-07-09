@@ -14,9 +14,9 @@
 #### _Data export on me_
 ```sql
 SELECT Id,
-  (SELECT 🚀 Improving FROM Salesforce_Development_Practices__c),
-  (SELECT 📚 Learning FROM New_Technologies_And_Frameworks__c),
-  (SELECT 🌐 Contributing FROM Salesforce_Community__c),
+  (SELECT 🚀 Improving FROM Salesforce_Development_Practices__r),
+  (SELECT 📚 Learning FROM New_Technologies_And_Frameworks__r),
+  (SELECT 🌐 Contributing FROM Salesforce_Community__r),
   🥇 Credentials, 🏅 Superbadges, ⚙ TechSkills
 FROM Developer__c
 WHERE Name LIKE 'Man%'
