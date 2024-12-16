@@ -29,6 +29,7 @@ WITH USER_MODE;
 
 <div align="center">
   <img src="./assets/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" height="100" alt="Platform Developer 1"/>&nbsp;&nbsp;
+  <img src="./assets/2024-06_Badge_SF-Certified_AI-Specialist_High-Res.png" height="100" alt="AI Specialist"/>&nbsp;&nbsp;
   <img src="./assets/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" height="100" alt="IA Associate"/>&nbsp;&nbsp;
   <img src="./assets/2022-08_Badge_SF-Certified_Associate_High-Res.png" height="100" alt="Associate"/>
 </div>
