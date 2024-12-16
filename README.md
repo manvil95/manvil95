@@ -21,11 +21,10 @@ SELECT Id,
 FROM Developer__c
 WHERE Name LIKE 'Man%'
   AND Passion_Age__c >= 29
-WITH USER_MODE;
 ```
 
 ## ☁ Salesforce Credentials
-### 🥇 _[3x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
+### 🥇 _[4x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
   <img src="./assets/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" height="100" alt="Platform Developer 1"/>&nbsp;&nbsp;
