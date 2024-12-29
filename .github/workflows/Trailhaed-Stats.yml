@@ -20,9 +20,10 @@ jobs:
         id: trailhead-stats
         uses: nabondance/Trailhead-Stats@v2.0.0
         with:
-          trailhead-username: nabondance
+          trailhead-username: manuelvillencano
           display-type: 'card'
           display-file: 'README.md'
           file-format: 'html'
           card-path: './TS-cards'
-          showCertificationLatest: 'visible'
+          show-certification-latest: 'visible'
+          show-certification: 'visible'
