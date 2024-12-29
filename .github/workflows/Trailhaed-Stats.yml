@@ -1,4 +1,3 @@
----
 name: Update Trailhead Stats
 
 on: # yamllint disable-line
@@ -13,7 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - uses: nabondance/trailhead-stats@v2
+      - uses: nabondance/trailhead-stats@v2.0.0
         with:
           trailhead-username: 'manuelvillencano'
           display-type: 'card'
