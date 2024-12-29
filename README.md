@@ -26,6 +26,13 @@ WHERE Name LIKE 'Man%'
 ## ☁ Salesforce Credentials
 
 <!--TH_Stats:start-->
+<a href="https://www.salesforce.com/trailblazer/manuelvillencano">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
+    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
+</picture>
+</a>
 <!--TH_Stats:end-->
 
 ### 🥇 _[4x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_

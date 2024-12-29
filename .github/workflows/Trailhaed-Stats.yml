@@ -1,22 +1,28 @@
 name: Update Trailhead Stats
 
-on: # yamllint disable-line
+on:
   schedule:
     - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  trailhead-stats:
+    name: Trailhead Stats
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - uses: nabondance/trailhead-stats@v2.0.0
+      - name: Get Trailhead stats
+        id: trailhead-stats
+        uses: nabondance/Trailhead-Stats@v2
         with:
-          trailhead-username: manuelvillencano
+          trailhead-username: nabondance
           display-type: 'card'
-          display-file: 'README.md' # Optional
-          file-format: 'html' # Optional
+          display-file: 'README.md'
+          file-format: 'html'
           card-path: './TS-cards'
           showCertificationLatest: 'visible'
