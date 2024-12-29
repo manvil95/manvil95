@@ -1,0 +1,22 @@
+---
+name: Update Trailhead Stats
+
+on: # yamllint disable-line
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - uses: nabondance/trailhead-stats@v2
+        with:
+          trailhead-username: 'manuelvillencano'
+          display-type: 'card'
+          display-file: 'README.md' # Optional
+          file-format: 'md' # Optional
+          showCertificationLatest: 'visible'

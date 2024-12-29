@@ -24,6 +24,10 @@ WHERE Name LIKE 'Man%'
 ```
 
 ## ☁ Salesforce Credentials
+
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
+
 ### 🥇 _[4x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
