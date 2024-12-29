@@ -26,4 +26,4 @@ jobs:
           file-format: 'html'
           card-path: './TS-cards'
           show-certification-latest: 'visible'
-          show-certification: 'visible'
+          show-certification: 'detail'
