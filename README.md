@@ -36,7 +36,7 @@ WHERE Name LIKE 'Man%'
 </a>
 <!--TH_Stats:end-->
 
-### 🥇 _[4x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
+<!--### 🥇 _[4x Certified Salesforce](https://www.salesforce.com/trailblazer/manuelvillencano)_
 
 <div align="center">
   <img src="./assets/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" height="100" alt="Platform Developer 1"/>&nbsp;&nbsp;
@@ -53,7 +53,7 @@ WHERE Name LIKE 'Man%'
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" height="100" alt="Apex Specialist"/>
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-lex-rd/e4f8cec0ddd1f90075424aa2c8b41d68_badge.png" height="100" alt="Lightning Experience Reports & Dashboards Specialist"/>  
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_business_specialist/c7717008150574ed92fa7f5ea8d9d213_badge.png" height="100" alt="Business Administration Specialist"/>  
-</div>
+</div>-->
 
 ## ⚙ Tech Skills
 <!--
